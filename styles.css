@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Sundori; /* set name */
+  src: url(Sundori.ttf); /* url of the font */
+}
+
+@font-face {
+  font-family: LibreBodoni; /* set name */
+  src: url(./LibreBodoni-VariableFont_wght.ttf); /* url of the font */
+}
+
+
+p {
+    
+    text-align: center;
+    font-family: "LibreBodoni";
+    font-weight: normal;
+}
+
+
+
+h1 {
+    
+    text-align: center;
+    font-family: "Sundori";
+    font-weight: normal;
+
+
+    body {background-color: #faedcd;}
+
+
+}
